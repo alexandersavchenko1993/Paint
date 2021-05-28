@@ -1,2 +1,2 @@
 # Paint
-My Paint MVC/C++
+My Paint MFC/C++

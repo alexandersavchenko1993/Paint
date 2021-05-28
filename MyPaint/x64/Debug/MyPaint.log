@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ChildFrm.cpp
+  Elements.cpp
+  MainFrm.cpp
+  MyPaint.cpp
+  MyPaintDoc.cpp
+  MyPaintView.cpp
+  Options.cpp
+  Создание кода...
+  MyPaint.vcxproj -> D:\Paint\x64\Debug\MyPaint.exe
